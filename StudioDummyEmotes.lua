@@ -1,10 +1,7 @@
 --[[
 	Studio Dummy V4 - Emotes (test)
-	every dance from Uhhhhhh Reanim, played on the studio dummy (rig version)
 	Uhhhhhh by STEVETHEREALONE (MIT license) - github.com/STEVE-916-create/Uhhhhhh
 	the dances, songs and anims come from your UhhhhhhReanim folder, missing ones get downloaded into it
-
-	put this file in your executor's workspace folder (or just run it), run studio dummy, then Shift + Right Ctrl
 
 	credits for all of them because yeah, good people
 	and don't even add me in the credit, I'm too lazy to do it anyways
